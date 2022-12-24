@@ -22,18 +22,18 @@ According to my dataframe, there were 10215 Vine reviews and 2633399 non-Vine re
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-<img width="526" alt="Screen Shot 2022-12-24 at 11 29 53 AM" src="https://user-images.githubusercontent.com/110838228/209444223-cb29bc68-366f-4336-b1c2-38d0d5afae36.png">
-<img width="500" alt="Screen Shot 2022-12-24 at 11 31 01 AM" src="https://user-images.githubusercontent.com/110838228/209444249-1756e96d-dbbd-4b39-938e-9b97fab9c063.png">
+<img width="618" alt="Screen Shot 2022-12-24 at 12 08 32 PM" src="https://user-images.githubusercontent.com/110838228/209445257-d6a36464-9573-4e9b-b8de-92f036994b26.png">
+
+<img width="623" alt="Screen Shot 2022-12-24 at 12 12 17 PM" src="https://user-images.githubusercontent.com/110838228/209445374-f9a32f3f-0467-4126-986c-6daebe4bc5cd.png">
 
 
-According to my dataframe, there were 1641210 5-star Vine reviews and 4343 non-Vine 5-star reviews.
+According to my dataframe, there were 65 5-star Vine reviews and 20612 non-Vine 5-star reviews.
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 <img width="295" alt="Screen Shot 2022-12-24 at 11 51 27 AM" src="https://user-images.githubusercontent.com/110838228/209444820-c64fdae8-1224-4ddd-9ee0-0c24a5386d39.png">
 
 <img width="338" alt="Screen Shot 2022-12-24 at 11 51 14 AM" src="https://user-images.githubusercontent.com/110838228/209444812-a0a43d48-bef1-49b5-95fe-e11f3fe6bf2d.png">
-
 
 According to my dataset, 38.23% of Vine reviews were 5 stars, and 54.47% of non-Vine reviews were 5 stars.
 
