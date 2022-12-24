@@ -31,9 +31,8 @@ According to my dataframe, there were 65 5-star Vine reviews and 20612 non-Vine 
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-<img width="295" alt="Screen Shot 2022-12-24 at 11 51 27 AM" src="https://user-images.githubusercontent.com/110838228/209444820-c64fdae8-1224-4ddd-9ee0-0c24a5386d39.png">
+<img width="539" alt="Screen Shot 2022-12-24 at 12 13 50 PM" src="https://user-images.githubusercontent.com/110838228/209445413-71b8942a-7cb1-4f96-9684-1cd94357b9a7.png">
 
-<img width="338" alt="Screen Shot 2022-12-24 at 11 51 14 AM" src="https://user-images.githubusercontent.com/110838228/209444812-a0a43d48-bef1-49b5-95fe-e11f3fe6bf2d.png">
 
 According to my dataset, 38.23% of Vine reviews were 5 stars, and 54.47% of non-Vine reviews were 5 stars.
 
